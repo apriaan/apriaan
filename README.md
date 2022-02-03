@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apriaan
+- 👋 Hi, I’m @apriaan - Dwiky Aprian Ashari
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning in Automation
 - 📫 How to reach me? dwiky.dev@gmail.com
