@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apriaan - Dwiky Aprian Ashari
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning in Backend & Automation field
-- 📫 How to reach me? dwiky.ashari@tokopedia.com / dwiky.dev@gmail.com
+- 📫 How to reach me? dwiky.dev@gmail.com
 
 <!---
 apriaan/apriaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
